@@ -7,3 +7,4 @@ web/bun.lockb
 web/yarn.lock
 web/pnpm-lock.yaml
 web/bun.lockb
+.idea/
