@@ -1,0 +1,9 @@
+web/build
+web/node_modules
+web/package-lock.json
+web/yarn.lock
+web/pnpm-lock.yaml
+web/bun.lockb
+web/yarn.lock
+web/pnpm-lock.yaml
+web/bun.lockb
