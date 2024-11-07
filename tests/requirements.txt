@@ -1,0 +1,8 @@
+selenium
+pytest
+pytest-xdist
+pytest-cov
+httpx
+webdriver-manager 
+requests
+chromedriver-autoinstallerpip 

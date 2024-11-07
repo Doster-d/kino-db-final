@@ -8,3 +8,5 @@ web/yarn.lock
 web/pnpm-lock.yaml
 web/bun.lockb
 .idea/
+.venv/
+__pycache__/
